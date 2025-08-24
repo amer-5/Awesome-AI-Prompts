@@ -1,0 +1,44 @@
+{
+  "productivity": [
+    "Act as a personal time management coach. Help me structure my week with deep work blocks and rest periods.",
+    "Create a concise daily standup summary from this list of tasks: {tasks}.",
+    "Generate a prioritized to-do list using the Eisenhower matrix based on this input: {tasks}.",
+    "Suggest the best productivity method (Pomodoro, GTD, Kanban) for this situation: {context}."
+  ],
+  "coding": [
+    "Explain this error message like I'm a beginner: {error}.",
+    "Write unit tests for this function in {language}: {code}.",
+    "Suggest performance optimizations for this piece of code: {code}.",
+    "Generate boilerplate code for a REST API in Express.js with JWT authentication."
+  ],
+  "learning": [
+    "Teach me the basics of {topic} using simple examples and analogies.",
+    "Generate 10 flashcards (Q&A) for learning {topic}.",
+    "Summarize this text into a mind map format: {text}.",
+    "Create a learning roadmap for mastering {skill} in 3 months."
+  ],
+  "writing": [
+    "Rewrite this paragraph in a more persuasive tone: {text}.",
+    "Generate 5 catchy blog post titles about {topic}.",
+    "Act as an editor. Improve grammar and style for this passage: {text}.",
+    "Write a LinkedIn post in a storytelling format about {experience}."
+  ],
+  "marketing": [
+    "Write a Facebook ad copy for {product} with a strong call-to-action.",
+    "Generate 10 viral tweet ideas for {topic}.",
+    "Summarize this product into a one-liner pitch for investors: {product}.",
+    "Create a customer persona profile for {industry}."
+  ],
+  "business": [
+    "Draft a professional cold email to reach out to {prospect}.",
+    "Generate a SWOT analysis for {company/idea}.",
+    "Create a 30-second elevator pitch for {startup idea}.",
+    "Summarize this financial report into key bullet points: {text}."
+  ],
+  "research": [
+    "Summarize the key findings of this academic paper: {text}.",
+    "Generate 5 research questions about {topic}.",
+    "Find connections between these two ideas: {idea1}, {idea2}.",
+    "Explain the limitations of this study in simple terms: {text}."
+  ]
+}

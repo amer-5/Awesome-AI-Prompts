@@ -14,7 +14,7 @@ This project is **open-source** under the MIT license and welcomes contributions
 - Research
 
 ## AI Tools Covered
-See [AI-TOOLS.md](./AI-TOOLS.md) for a list of **free and paid AI tools** that work well with these prompts.
+See **free and paid [AI-TOOLS](./AI-TOOLS.md)** that work well with these prompts.
 
 ## How to Use
 1. Browse the `prompts/` folder.
